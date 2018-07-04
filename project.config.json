@@ -1,0 +1,15 @@
+{
+	"description": "mqun",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx62f40f04c71170c4",
+	"projectname": "mqyun",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
